@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm **MAHFOZUR RAHMAN**
 #### Programmer | Developer | Designer | Learner
-![Programmer | Developer | Designer | Learner](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
 
 Assalamualaikum. I'm Mahfozur Rahman. I'm a webdeveloper since 2019. Currently maintaining App development with Web development.Under Bangladesh Technical  Education Board (BTEB) I'm also a student of BBA honurs Department of Accounting.Learning and Learning is my hobby.
 Thank You.
