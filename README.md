@@ -23,12 +23,12 @@ Skills: PHP / JS / HTML / CSS / BOOTSTRAP / C / C++ / PYTHON / JAVA
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MRA963)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mdshawn&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MRA963&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mdshawn)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MRA963)  
 
-![GitHub metrics](https://metrics.lecoq.io/mdshawn)  
+![GitHub metrics](https://metrics.lecoq.io/MRA963)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mdshawn)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=MRA963)  
 
-![Profile views](https://gpvc.arturio.dev/mdshawn)  
+ 
