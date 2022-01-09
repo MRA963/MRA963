@@ -29,6 +29,5 @@ Skills: PHP / JS / HTML / CSS / BOOTSTRAP / C / C++ / PYTHON / JAVA
 
 ![GitHub metrics](https://metrics.lecoq.io/MRA963)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=MRA963)  
 
  
