@@ -27,11 +27,14 @@ Skills: HTML / CSS / C / JAVA/ Flutter/ Dart
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MRA963)  
 
  
-<p align="left">
-  <a href="https://github.com/ronyinfu/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=ronyinfu&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=ronyinfu&theme=gruvbox&hide_border=true" />
+
+<br>
+<div align="center">
+  <a href="https://www.youtube.com/channel/UCptYFcThdUXzIznWG4jZKxw">
+    <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
   </a>
-</p>
+</div>
+<h3 align="center">My StatisticsMy Statistics</h3>
+<br/>
 
  
