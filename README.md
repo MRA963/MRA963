@@ -1,6 +1,6 @@
-<h6 align="center"> Hi there 👋, I'm  MAHFOZUR RAHMAN</h6>
+<h1 align="center"> Hi there 👋, I'm  MAHFOZUR RAHMAN</h1>
 
-#### Programmer | Developer | Designer | Learner
+#### I am a  Programmer , Developer , Designer and Learner
 
 <br>
 <div align="center">
