@@ -1,20 +1,15 @@
-### Hi there 👋, I'm      **MAHFOZUR RAHMAN**
+<h6 align="center"> Hi there 👋, I'm  MAHFOZUR RAHMAN</h6>
+
 #### Programmer | Developer | Designer | Learner
 
-
-Assalamualaikum. I'm Mahfozur Rahman. I'm a webdeveloper since 2019. Currently maintaining App development with Web development.Under Bangladesh Technical  Education Board (BTEB) I'm also a student of BBA honurs Department of Accounting.Learning and Learning is my hobby.
-Thank You.
-
-Skills: HTML / CSS / C / JAVA/ Flutter/ Dart
-
-- 🔭 I’m currently working on Flutter and Real life Internship 
-- 🌱 I’m currently learning web developing 
-- 👯 I’m looking to collaborate on Blogs, IT Farm and CMT 
-- 🤔 I’m looking for help with joining to a IT Job 
-
-
-
-  
+<br>
+<div align="center">
+  <a href="https://www.youtube.com/channel/UCptYFcThdUXzIznWG4jZKxw">
+    <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
+  </a>
+</div>
+<h3 align="center">My Statistical Reports </h3>
+<br/>
 
 
 
@@ -28,13 +23,5 @@ Skills: HTML / CSS / C / JAVA/ Flutter/ Dart
 
  
 
-<br>
-<div align="center">
-  <a href="https://www.youtube.com/channel/UCptYFcThdUXzIznWG4jZKxw">
-    <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
-  </a>
-</div>
-<h3 align="center">My StatisticsMy Statistics</h3>
-<br/>
 
  
