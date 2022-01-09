@@ -26,7 +26,7 @@ Skills: HTML / CSS / C / JAVA/ Flutter/ Dart
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MRA963)  
 
-![GitHub metrics](https://metrics.lecoq.io/MRA963)  
+ 
 
 
  
