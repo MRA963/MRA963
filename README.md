@@ -5,13 +5,12 @@
 Assalamualaikum. I'm Mahfozur Rahman. I'm a webdeveloper since 2019. Currently maintaining App development with Web development.Under Bangladesh Technical  Education Board (BTEB) I'm also a student of BBA honurs Department of Accounting.Learning and Learning is my hobby.
 Thank You.
 
-Skills: PHP / JS / HTML / CSS / BOOTSTRAP / C / C++ / PYTHON / JAVA
+Skills: HTML / CSS / C / JAVA/ Flutter/ Dart
 
-- 🔭 I’m currently working on Fiverr.com and Real life Internship 
-- 🌱 I’m currently learning Computer Science and technology, Data Science and Algorithm 
+- 🔭 I’m currently working on Flutter and Real life Internship 
+- 🌱 I’m currently learning web developing 
 - 👯 I’m looking to collaborate on Blogs, IT Farm and CMT 
 - 🤔 I’m looking for help with joining to a IT Job 
-- 💬 Ask me about programming language and IT. 
 
 
 
