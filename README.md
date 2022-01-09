@@ -1,4 +1,4 @@
-### Hi there 👋, I'm **MAHFOZUR RAHMAN**
+### Hi there 👋, I'm      **MAHFOZUR RAHMAN**
 #### Programmer | Developer | Designer | Learner
 
 
@@ -21,7 +21,7 @@ Skills: PHP / JS / HTML / CSS / BOOTSTRAP / C / C++ / PYTHON / JAVA
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdshawn)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MRA963)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mdshawn&show_icons=true)  
 
